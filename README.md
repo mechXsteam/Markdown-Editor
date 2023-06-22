@@ -2,6 +2,13 @@
 ### [visit the project here](https://csb-jrt2zy.vercel.app/)
 This is a Markdown editor built using React, allowing users to create, edit, and preview Markdown documents in a user-friendly interface. Markdown is a lightweight markup language that enables easy formatting of text with simple syntax.
 
+## Working 
+
+| Working [1/2]           | Working [2/2]             |
+| ---------------------- | ---------------------- |
+| ![working 1/2](https://i.pinimg.com/564x/d1/0e/f4/d10ef455428ee0ac9ea5b7ffd9db1f43.jpg)|![working 2/2](https://i.pinimg.com/564x/af/b5/2c/afb52cd504509e2c5a894c081c441f7e.jpg)|
+
+
 ## Features
 
 - **Real-time Preview**: The editor provides a live preview of the rendered Markdown as you type, allowing you to see the formatted output instantly.
